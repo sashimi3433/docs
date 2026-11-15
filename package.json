@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "http-server": "^0.12.3"
+  },
+  "overrides": {
+    "node-forge": "^1.4.3"
   }
 }
