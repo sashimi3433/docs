@@ -20,6 +20,7 @@
   },
   "overrides": {
     "node-forge": "^1.4.3",
-    "serialize-javascript": "^7.1.4"
+    "serialize-javascript": "^7.1.4",
+    "decode-uri-component": "0.5.1"
   }
 }
