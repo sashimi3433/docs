@@ -21,6 +21,17 @@
   "overrides": {
     "node-forge": "^1.4.3",
     "serialize-javascript": "^7.1.4",
-    "decode-uri-component": "0.5.1"
+    "decode-uri-component": "0.5.1",
+    "websocket-driver@0": "^0.7.5",
+    "cipher-base@1": "^1.0.7",
+    "form-data@2": "^2.5.4",
+    "elliptic@6": "^6.6.1",
+    "@babel/traverse@7": "^7.23.2",
+    "minimist@1": "^1.2.8",
+    "loader-utils@1": "^1.4.2",
+    "eventsource@1": "^1.1.1",
+    "url-parse@1": "^1.5.10",
+    "json-schema@0": "^0.4.0",
+    "jsprim@1": "^1.4.2"
   }
 }
